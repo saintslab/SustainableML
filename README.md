@@ -10,7 +10,9 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ---
 ## Upcoming Meetings
 
-We are on a break due to the holiday season. Next meeting will be on 17/01/2024.
+### Meeting 17: 14/02/2024
+* [Bob Pepin](https://scholar.google.com/citations?user=w7gb0Q4AAAAJ&hl=en) will be presenting. 
+
 ---- 
 ## Past Meetings
 
