@@ -11,7 +11,7 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ## Upcoming Meetings
 
 ### Meeting 17: 14/02/2024
-* [Bob Pepin](https://scholar.google.com/citations?user=w7gb0Q4AAAAJ&hl=en) will be presenting _How Does Information Bottleneck Help Deep Learning? _
+* [Bob Pepin](https://scholar.google.com/citations?user=w7gb0Q4AAAAJ&hl=en) will be presenting _How Does Information Bottleneck Help Deep Learning?_
 * [Paper](https://openreview.net/forum?id=dxwjBXwvca)
 
 ---- 
