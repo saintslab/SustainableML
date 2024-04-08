@@ -10,12 +10,17 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ---
 ## Upcoming Meetings
 
-### Meeting 17: 14/02/2024
-* [Bob Pepin](https://scholar.google.com/citations?user=w7gb0Q4AAAAJ&hl=en) will be presenting _How Does Information Bottleneck Help Deep Learning?_
-* [Paper](https://openreview.net/forum?id=dxwjBXwvca)
+### Meeting-18: 10/04/2024
+* [Sebastian Hammer Eliassen](https://github.com/sebeliassen/) will present _Activation Compression of Graph Neural Networks using Block-wise Quantization with Improved Variance Minimization (Eliassen et al. 2024)_
+* [Paper](https://arxiv.org/abs/2309.11856)
 
 ---- 
 ## Past Meetings
+
+### Meeting 17: 14/02/2024
+* [Bob Pepin](https://scholar.google.com/citations?user=w7gb0Q4AAAAJ&hl=en) presented _How Does Information Bottleneck Help Deep Learning?_
+* [Paper](https://openreview.net/forum?id=dxwjBXwvca)
+
 
 ### Meeting 16: 06/12/2023
 * [Sebastian Hammer Eliassen](https://github.com/sebeliassen/) presented _BitGNN: Unleashing the Performance Potential of Binary Graph Neural Networks on GPUs_ (Chen et al. 2023)
