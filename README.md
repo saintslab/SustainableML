@@ -10,12 +10,22 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ---
 ## Upcoming Meetings
 
-### Meeting-18: 10/04/2024
-* [Sebastian Hammer Eliassen](https://github.com/sebeliassen/) will present _Activation Compression of Graph Neural Networks using Block-wise Quantization with Improved Variance Minimization (Eliassen et al. 2024)_
-* [Paper](https://arxiv.org/abs/2309.11856)
+### Meeting-20: 08/05/2024
+* [Raghavendra Selvan](https://raghavian.github.io/) will present _Mamba: Linear-Time Sequence Modeling with Selective State Spaces_ (Gu and Dao 2023). 
+* [Paper](https://arxiv.org/abs/2312.00752)
 
 ---- 
 ## Past Meetings
+
+### Meeting-19: 24/04/2024
+* [Frederik L Johansen](https://scholar.google.com/citations?user=VAio2igAAAAJ&hl=en) presented _QLoRA: Efficient Finetuning of Quantized LLMs (Dettmers et al. 2023)_
+* [Paper](https://arxiv.org/abs/2305.14314)
+
+
+### Meeting-18: 10/04/2024
+* [Sebastian Hammer Eliassen](https://github.com/sebeliassen/) presented _Activation Compression of Graph Neural Networks using Block-wise Quantization with Improved Variance Minimization (Eliassen et al. 2024)_
+* [Paper](https://arxiv.org/abs/2309.11856)
+
 
 ### Meeting 17: 14/02/2024
 * [Bob Pepin](https://scholar.google.com/citations?user=w7gb0Q4AAAAJ&hl=en) presented _How Does Information Bottleneck Help Deep Learning?_
