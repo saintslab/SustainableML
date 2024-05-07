@@ -10,7 +10,7 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ---
 ## Upcoming Meetings
 
-### Meeting-20: 08/05/2024
+### Meeting-20: To be planned
 * [Raghavendra Selvan](https://raghavian.github.io/) will present _Mamba: Linear-Time Sequence Modeling with Selective State Spaces_ (Gu and Dao 2023). 
 * [Paper](https://arxiv.org/abs/2312.00752)
 
