@@ -13,8 +13,11 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ### Meeting-20: 11/09/2024
 * Jonathan Wenshøj will present _Gradient ℓ1 Regularization for Quantization Robustness_ (Alizadeh et al. 2020). 
 * [Paper](https://arxiv.org/abs/2002.07520)
-* 
-### Meeting-21: To be planned
+
+### Meeting-21: 24/09/2024
+* TBD
+
+### Meeting-22: 09/10/2024
 * [Raghavendra Selvan](https://raghavian.github.io/) will present _Mamba: Linear-Time Sequence Modeling with Selective State Spaces_ (Gu and Dao 2023). 
 * [Paper](https://arxiv.org/abs/2312.00752)
 
