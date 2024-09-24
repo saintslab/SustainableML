@@ -12,7 +12,7 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 
 
 ### Meeting-21: 24/09/2024
-* [Rasmus H Løvstad] will present _The Unseen AI Disruptions for Power Grids: LLM-Induced Transients_ (Li et al.)
+* [Rasmus H Løvstad](https://github.com/Snailed) will present _The Unseen AI Disruptions for Power Grids: LLM-Induced Transients_ (Li et al.)
 * [Paper](https://arxiv.org/abs/2409.11416)
 
 ### Meeting-22: 09/10/2024
