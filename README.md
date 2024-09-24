@@ -11,18 +11,24 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ## Upcoming Meetings
 
 
-### Meeting-21: 24/09/2024
-* [Rasmus H Løvstad](https://github.com/Snailed) will present _The Unseen AI Disruptions for Power Grids: LLM-Induced Transients_ (Li et al.)
-* [Paper](https://arxiv.org/abs/2409.11416)
 
 ### Meeting-22: 09/10/2024
+
 * [Raghavendra Selvan](https://raghavian.github.io/) will present 
 * TBD
 
+### Meeting-22: 09/10/2024
+
+* [Jean-Loup Tastet]([https://raghavian.github.io/](https://scholar.google.com/citations?user=kQJbjnAAAAAJ&hl=en&oi=ao)) will present 
+* TBD
 
 ---- 
 ## Past Meetings
 
+### Meeting-21: 24/09/2024
+* [Rasmus H Løvstad](https://github.com/Snailed) will present _The Unseen AI Disruptions for Power Grids: LLM-Induced Transients_ (Li et al.)
+* [Paper](https://arxiv.org/abs/2409.11416)
+  
 ### Meeting-20: 11/09/2024
 * Jonathan Wenshøj will present _Gradient ℓ1 Regularization for Quantization Robustness_ (Alizadeh et al. 2020). 
 * [Paper](https://arxiv.org/abs/2002.07520)
