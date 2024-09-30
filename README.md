@@ -14,7 +14,7 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 
 ### Meeting-22: 09/10/2024
 
-* [Raghavendra Selvan](https://raghavian.github.io/) will present 
+* [Pedram Bakhtiarifard](https://scholar.google.com/citations?user=wnOiOHoAAAAJ&hl=en&oi=ao) will present 
 * TBD
 
 ### Meeting-22: 09/10/2024
