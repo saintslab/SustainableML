@@ -10,10 +10,6 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ---
 ## Upcoming Meetings
 
-### Meeting-23: 06/11/2024
-
-* [Jean-Loup Tastet](https://scholar.google.com/citations?user=kQJbjnAAAAAJ&hl=en&oi=ao) will present 
-* [Paper](https://arxiv.org/abs/2203.03466)
 
 ### Meeting-24: 20/11/2024
 
@@ -21,10 +17,16 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 * [Paper](https://arxiv.org/abs/1910.00370)
 
 ### Meeting-25: 04/12/2024
-
+* Sophia Wilson will present
+* [Paper](https://arxiv.org/abs/2410.23179)
 ---- 
 ## Past Meetings
 
+### Meeting-23: 06/11/2024
+
+* [Jean-Loup Tastet](https://scholar.google.com/citations?user=kQJbjnAAAAAJ&hl=en&oi=ao) will present 
+* [Paper](https://arxiv.org/abs/2203.03466)
+* 
 ### Meeting-22: 09/10/2024
 
 * [Pedram Bakhtiarifard](https://scholar.google.com/citations?user=wnOiOHoAAAAJ&hl=en&oi=ao) will present 
