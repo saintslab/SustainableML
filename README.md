@@ -13,31 +13,31 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 
 ### Meeting-24: 20/11/2024
 
-* [Yijun Bian](https://eustomadew.github.io/) will present 
+* [Yijun Bian](https://eustomadew.github.io/) will present _Sub-Architecture Ensemble Pruning in Neural Architecture Search_ (Bian et al. 2021)
 * [Paper](https://arxiv.org/abs/1910.00370)
 
 ### Meeting-25: 04/12/2024
-* Sophia Wilson will present
+* Sophia Wilson will present _Does equivariance matter at scale?_ (Brehmer et al. 2024)
 * [Paper](https://arxiv.org/abs/2410.23179)
 ---- 
 ## Past Meetings
 
 ### Meeting-23: 06/11/2024
 
-* [Jean-Loup Tastet](https://scholar.google.com/citations?user=kQJbjnAAAAAJ&hl=en&oi=ao) will present 
+* [Jean-Loup Tastet](https://scholar.google.com/citations?user=kQJbjnAAAAAJ&hl=en&oi=ao) presented _Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer_ (Yang et al.)
 * [Paper](https://arxiv.org/abs/2203.03466)
-* 
+ 
 ### Meeting-22: 09/10/2024
 
-* [Pedram Bakhtiarifard](https://scholar.google.com/citations?user=wnOiOHoAAAAJ&hl=en&oi=ao) will present 
+* [Pedram Bakhtiarifard](https://scholar.google.com/citations?user=wnOiOHoAAAAJ&hl=en&oi=ao) presented _Persistent Homology based Graph Convolution Network for Fine-grained 3D Shape Segmentation_ (Wong et al.)
 * [Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wong_Persistent_Homology_Based_Graph_Convolution_Network_for_Fine-Grained_3D_Shape_ICCV_2021_paper.pdf)
 
 ### Meeting-21: 24/09/2024
-* [Rasmus H Løvstad](https://github.com/Snailed) will present _The Unseen AI Disruptions for Power Grids: LLM-Induced Transients_ (Li et al.)
+* [Rasmus H Løvstad](https://github.com/Snailed) presented _The Unseen AI Disruptions for Power Grids: LLM-Induced Transients_ (Li et al.)
 * [Paper](https://arxiv.org/abs/2409.11416)
   
 ### Meeting-20: 11/09/2024
-* Jonathan Wenshøj will present _Gradient ℓ1 Regularization for Quantization Robustness_ (Alizadeh et al. 2020). 
+* Jonathan Wenshøj presented _Gradient ℓ1 Regularization for Quantization Robustness_ (Alizadeh et al. 2020). 
 * [Paper](https://arxiv.org/abs/2002.07520)
 
 ### Meeting-19: 24/04/2024
