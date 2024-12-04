@@ -10,7 +10,7 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ---
 ## Upcoming Meetings
 
-**We will be back on 15/01/2025**
+_We had the final meeting for 2024. We will be back on 15/01/2025_
 ---- 
 ## Past Meetings
 
