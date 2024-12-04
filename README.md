@@ -10,13 +10,14 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ---
 ## Upcoming Meetings
 
-### Meeting-25: 04/12/2024
-
-* Sophia Wilson will present _Does equivariance matter at scale?_ (Brehmer et al. 2024)
-* [Paper](https://arxiv.org/abs/2410.23179)
-  
+**We will be back on 15/01/2025**
 ---- 
 ## Past Meetings
+
+### Meeting-25: 04/12/2024
+
+* Sophia Wilson presented _Does equivariance matter at scale?_ (Brehmer et al. 2024)
+* [Paper](https://arxiv.org/abs/2410.23179)
 
 ### Meeting-24: 20/11/2024
 * [Yijun Bian](https://eustomadew.github.io/) presented _Sub-Architecture Ensemble Pruning in Neural Architecture Search_ (Bian et al. 2021)
