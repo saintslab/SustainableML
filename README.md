@@ -11,7 +11,7 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ## Upcoming Meetings
 
 ### Meeting-26: 29/01/2025
-* [Rajani Singh]() will present _Sustainable and Secure Renewable Energy Trading System Based on Digital Twin, Blockchain and Game Theory Integration_ (Dwivedi et al. 2023)
+* [Rajani Singh](https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/rsdigi) will present _Sustainable and Secure Renewable Energy Trading System Based on Digital Twin, Blockchain and Game Theory Integration_ (Dwivedi et al. 2023)
 * [Paper](https://ieeexplore.ieee.org/document/10397932)
 
 ---- 
