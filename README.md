@@ -10,12 +10,21 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ---
 ## Upcoming Meetings
 
-### Meeting-26: 29/01/2025
-* [Rajani Singh](https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/rsdigi) will present _Sustainable and Secure Renewable Energy Trading System Based on Digital Twin, Blockchain and Game Theory Integration_ (Dwivedi et al. 2023)
-* [Paper](https://ieeexplore.ieee.org/document/10397932)
+### Meeting-27: 12/02/2025
+* [Tong Chen](https://scholar.google.com/citations?user=KArfuYIAAAAJ&hl=fr&oi=sra) will present _Data-Driven Lipschitz Continuity: A Cost-Effective Approach to Improve Adversarial Robustness_. 
+* [Paper](https://arxiv.org/abs/2406.19622)
+
+### Meeting-28: 26/02/2025
+* [Ties Robroek](https://scholar.google.dk/citations?user=kCPSPq8AAAAJ&hl=nl) will be presenting. 
+* [Paper](tbd)
+
 
 ---- 
 ## Past Meetings
+
+### Meeting-26: 29/01/2025
+* [Rajani Singh](https://www.cbs.dk/en/research/departments-and-centres/department-of-digitalization/staff/rsdigi) presented _Sustainable and Secure Renewable Energy Trading System Based on Digital Twin, Blockchain and Game Theory Integration_ (Dwivedi et al. 2023)
+* [Paper](https://ieeexplore.ieee.org/document/10397932)
 
 ### Meeting-25: 04/12/2024
 
