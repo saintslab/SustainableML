@@ -10,12 +10,16 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ---
 ## Upcoming Meetings
 
-### Meeting-29: 12/03/2025
-* [Rasmus H Løvstad](https://github.com/Snailed) will present _Scaling Laws for Precision_ (Kumar et al. 2025)
-* [Paper](https://openreview.net/forum?id=wg1PCg3CUP)
+### Meeting-30: 26/03/2025
+* Laust Skov Hansen will present.
+* [Paper](tbd)
 
 ---- 
 ## Past Meetings
+
+### Meeting-29: 12/03/2025
+* [Rasmus H Løvstad](https://github.com/Snailed) will present _Scaling Laws for Precision_ (Kumar et al. 2025)
+* [Paper](https://openreview.net/forum?id=wg1PCg3CUP)
 
 ### Meeting-28: 26/02/2025
 * [Ties Robroek](https://scholar.google.dk/citations?user=kCPSPq8AAAAJ&hl=nl) presented _Part-time Power Measurements: nvidia-smi's Lack of Attention_ (Yang et al. 2023). 
