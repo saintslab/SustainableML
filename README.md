@@ -11,14 +11,14 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ## Upcoming Meetings
 
 ### Meeting-30: 26/03/2025
-* Laust Skov Hansen will present.
-* [Paper](tbd)
+* Laust Skov Hansen will present _Data Pruning via Moving-one-Sample-out_ (Tan et al.).
+* [Paper](https://arxiv.org/abs/2310.14664)
 
 ---- 
 ## Past Meetings
 
 ### Meeting-29: 12/03/2025
-* [Rasmus H Løvstad](https://github.com/Snailed) will present _Scaling Laws for Precision_ (Kumar et al. 2025)
+* [Rasmus H Løvstad](https://github.com/Snailed) presented _Scaling Laws for Precision_ (Kumar et al. 2025)
 * [Paper](https://openreview.net/forum?id=wg1PCg3CUP)
 
 ### Meeting-28: 26/02/2025
