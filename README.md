@@ -14,6 +14,10 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 * [Bob Pepin](https://scholar.google.com/citations?user=w7gb0Q4AAAAJ&hl=en) will present.
 * [Paper](tbd)
 
+### Meeting 32: 07/05/2025
+* [María González Gutiérrez](tbd) will present.
+* [Paper](tbd)
+
 ---- 
 ## Past Meetings
 
