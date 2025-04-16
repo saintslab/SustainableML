@@ -10,7 +10,7 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ---
 ## Upcoming Meetings
 
-### Meeting 31: 14/02/2024
+### Meeting 31: 28/04/2025
 * [Bob Pepin](https://scholar.google.com/citations?user=w7gb0Q4AAAAJ&hl=en) will present.
 * [Paper](tbd)
 
