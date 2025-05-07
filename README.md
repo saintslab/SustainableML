@@ -10,12 +10,16 @@ Reading group on Sustainable Machine Learning and ICT. We discuss papers every o
 ---
 ## Upcoming Meetings
 
-### Meeting 32: 07/05/2025
-* [María González Gutiérrez](tbd) will present their own work _System-oriented AI energy efficiency: a step further from the life-cycle_ (2025).
-* [Paper](tbd)
+### Meeting-33: 21/05/2025
 
+* [Pedram Bakhtiarifard](https://scholar.google.com/citations?user=wnOiOHoAAAAJ&hl=en&oi=ao) will present. 
+* [Paper]()
 ---- 
 ## Past Meetings
+
+### Meeting 32: 07/05/2025
+* [María González Gutiérrez](tbd) presented their own work _System-oriented AI energy efficiency: a step further from the life-cycle_ (2025).
+* [Paper](tbd)
 
 ### Meeting 31: 23/04/2025
 * [Bob Pepin](https://scholar.google.com/citations?user=w7gb0Q4AAAAJ&hl=en) presented _Reconciling modern machine-learning practice and the classical bias–variance trade-off_ (Belkin et al. 2019).
